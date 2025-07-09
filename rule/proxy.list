@@ -1,12 +1,12 @@
 # NAME: proxy sites
-# UPDATED: 2025-07-09 16:20:31
+# UPDATED: 2025-07-09 16:42:23
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 30567
+# DOMAIN-SUFFIX: 30568
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 30782
+# TOTAL: 30783
 
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -19786,6 +19786,7 @@ DOMAIN-SUFFIX,nsirc.ac.uk
 DOMAIN-SUFFIX,nso.ac.uk
 DOMAIN-SUFFIX,nspcr.ac.uk
 DOMAIN-SUFFIX,nss.ac.uk
+DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,nsu.ac.uk
 DOMAIN-SUFFIX,nsw.ac.uk
 DOMAIN-SUFFIX,ntb.ac.uk
