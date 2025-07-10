@@ -1,5 +1,5 @@
 # Surge规则文件汇总
-生成时间: 2025-07-10 14:03:35
+生成时间: 2025-07-10 14:08:34
 
 ## 关于jsDelivr
 jsDelivr是一个免费的CDN服务，可以加速GitHub文件的访问。
@@ -8,13 +8,13 @@ jsDelivr是一个免费的CDN服务，可以加速GitHub文件的访问。
 ## 快速下载
 | 分类 | 文件名 | 规则数 | GitHub下载 | jsDelivr下载 |
 |------|--------|--------|------------|--------------|
-| China IP-ASN | `cn_asn.list` | 5485 | [下载](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rules/rule/cn_asn.list) | [下载](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rules/rule/cn_asn.list) |
-| China Domains | `cn_sites.list` | 3754 | [下载](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rules/rule/cn_sites.list) | [下载](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rules/rule/cn_sites.list) |
-| proxy sites | `proxy.list` | 30783 | [下载](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rules/rule/proxy.list) | [下载](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rules/rule/proxy.list) |
-| Telegram | `telegram.list` | 24 | [下载](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rules/rule/telegram.list) | [下载](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rules/rule/telegram.list) |
-| AIGC | `aigc.list` | 228 | [下载](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rules/rule/aigc.list) | [下载](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rules/rule/aigc.list) |
-| Direct | `direct.list` | 254 | [下载](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rules/rule/direct.list) | [下载](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rules/rule/direct.list) |
-| LAN | `lan.list` | 141 | [下载](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rules/rule/lan.list) | [下载](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rules/rule/lan.list) |
+| China IP-ASN | `cn_asn.list` | 5485 | [下载](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/cn_asn.list) | [下载](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/cn_asn.list) |
+| China Domains | `cn_sites.list` | 3754 | [下载](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/cn_sites.list) | [下载](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/cn_sites.list) |
+| proxy sites | `proxy.list` | 30783 | [下载](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/proxy.list) | [下载](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/proxy.list) |
+| Telegram | `telegram.list` | 24 | [下载](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/telegram.list) | [下载](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/telegram.list) |
+| AIGC | `aigc.list` | 228 | [下载](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/aigc.list) | [下载](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/aigc.list) |
+| Direct | `direct.list` | 254 | [下载](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/direct.list) | [下载](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/direct.list) |
+| LAN | `lan.list` | 141 | [下载](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/lan.list) | [下载](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/lan.list) |
 
 ## 总体统计
 - 总规则数: 40669
@@ -27,11 +27,11 @@ jsDelivr是一个免费的CDN服务，可以加速GitHub文件的访问。
 - 规则数: 5485
 - 文件: `cn_asn.list`
 - 下载链接:
-  - [GitHub原始文件](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rules/rule/cn_asn.list)
-  - [jsDelivr加速](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rules/rule/cn_asn.list)
+  - [GitHub原始文件](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/cn_asn.list)
+  - [jsDelivr加速](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/cn_asn.list)
 - 直接链接:
-  - GitHub: `https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rules/rule/cn_asn.list`
-  - jsDelivr: `https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rules/rule/cn_asn.list`
+  - GitHub: `https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/cn_asn.list`
+  - jsDelivr: `https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/cn_asn.list`
   - IP-ASN: 5485
 
 ### China Domains
@@ -39,11 +39,11 @@ jsDelivr是一个免费的CDN服务，可以加速GitHub文件的访问。
 - 规则数: 3754
 - 文件: `cn_sites.list`
 - 下载链接:
-  - [GitHub原始文件](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rules/rule/cn_sites.list)
-  - [jsDelivr加速](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rules/rule/cn_sites.list)
+  - [GitHub原始文件](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/cn_sites.list)
+  - [jsDelivr加速](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/cn_sites.list)
 - 直接链接:
-  - GitHub: `https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rules/rule/cn_sites.list`
-  - jsDelivr: `https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rules/rule/cn_sites.list`
+  - GitHub: `https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/cn_sites.list`
+  - jsDelivr: `https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/cn_sites.list`
   - DOMAIN: 17
   - DOMAIN-KEYWORD: 9
   - DOMAIN-SUFFIX: 3676
@@ -56,11 +56,11 @@ jsDelivr是一个免费的CDN服务，可以加速GitHub文件的访问。
 - 规则数: 30783
 - 文件: `proxy.list`
 - 下载链接:
-  - [GitHub原始文件](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rules/rule/proxy.list)
-  - [jsDelivr加速](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rules/rule/proxy.list)
+  - [GitHub原始文件](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/proxy.list)
+  - [jsDelivr加速](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/proxy.list)
 - 直接链接:
-  - GitHub: `https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rules/rule/proxy.list`
-  - jsDelivr: `https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rules/rule/proxy.list`
+  - GitHub: `https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/proxy.list`
+  - jsDelivr: `https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/proxy.list`
   - DOMAIN: 84
   - DOMAIN-KEYWORD: 26
   - DOMAIN-SUFFIX: 30568
@@ -73,11 +73,11 @@ jsDelivr是一个免费的CDN服务，可以加速GitHub文件的访问。
 - 规则数: 24
 - 文件: `telegram.list`
 - 下载链接:
-  - [GitHub原始文件](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rules/rule/telegram.list)
-  - [jsDelivr加速](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rules/rule/telegram.list)
+  - [GitHub原始文件](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/telegram.list)
+  - [jsDelivr加速](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/telegram.list)
 - 直接链接:
-  - GitHub: `https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rules/rule/telegram.list`
-  - jsDelivr: `https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rules/rule/telegram.list`
+  - GitHub: `https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/telegram.list`
+  - jsDelivr: `https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/telegram.list`
   - DOMAIN-SUFFIX: 5
   - IP-ASN: 2
   - IP-CIDR: 11
@@ -89,11 +89,11 @@ jsDelivr是一个免费的CDN服务，可以加速GitHub文件的访问。
 - 规则数: 228
 - 文件: `aigc.list`
 - 下载链接:
-  - [GitHub原始文件](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rules/rule/aigc.list)
-  - [jsDelivr加速](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rules/rule/aigc.list)
+  - [GitHub原始文件](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/aigc.list)
+  - [jsDelivr加速](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/aigc.list)
 - 直接链接:
-  - GitHub: `https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rules/rule/aigc.list`
-  - jsDelivr: `https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rules/rule/aigc.list`
+  - GitHub: `https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/aigc.list`
+  - jsDelivr: `https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/aigc.list`
   - DOMAIN: 30
   - DOMAIN-KEYWORD: 17
   - DOMAIN-SUFFIX: 159
@@ -106,11 +106,11 @@ jsDelivr是一个免费的CDN服务，可以加速GitHub文件的访问。
 - 规则数: 254
 - 文件: `direct.list`
 - 下载链接:
-  - [GitHub原始文件](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rules/rule/direct.list)
-  - [jsDelivr加速](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rules/rule/direct.list)
+  - [GitHub原始文件](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/direct.list)
+  - [jsDelivr加速](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/direct.list)
 - 直接链接:
-  - GitHub: `https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rules/rule/direct.list`
-  - jsDelivr: `https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rules/rule/direct.list`
+  - GitHub: `https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/direct.list`
+  - jsDelivr: `https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/direct.list`
   - DOMAIN: 56
   - DOMAIN-KEYWORD: 35
   - DOMAIN-SUFFIX: 126
@@ -122,11 +122,11 @@ jsDelivr是一个免费的CDN服务，可以加速GitHub文件的访问。
 - 规则数: 141
 - 文件: `lan.list`
 - 下载链接:
-  - [GitHub原始文件](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rules/rule/lan.list)
-  - [jsDelivr加速](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rules/rule/lan.list)
+  - [GitHub原始文件](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/lan.list)
+  - [jsDelivr加速](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/lan.list)
 - 直接链接:
-  - GitHub: `https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rules/rule/lan.list`
-  - jsDelivr: `https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rules/rule/lan.list`
+  - GitHub: `https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/lan.list`
+  - jsDelivr: `https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/lan.list`
   - DOMAIN: 6
   - DOMAIN-SUFFIX: 117
   - IP-CIDR: 14
