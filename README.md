@@ -1,5 +1,5 @@
 # Surge规则文件汇总
-生成时间: 2025-07-10 14:08:34
+生成时间: 2025-07-10 15:09:11
 
 ## 关于jsDelivr
 jsDelivr是一个免费的CDN服务，可以加速GitHub文件的访问。
@@ -12,12 +12,12 @@ jsDelivr是一个免费的CDN服务，可以加速GitHub文件的访问。
 | China Domains | `cn_sites.list` | 3754 | [下载](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/cn_sites.list) | [下载](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/cn_sites.list) |
 | proxy sites | `proxy.list` | 30783 | [下载](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/proxy.list) | [下载](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/proxy.list) |
 | Telegram | `telegram.list` | 24 | [下载](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/telegram.list) | [下载](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/telegram.list) |
-| AIGC | `aigc.list` | 228 | [下载](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/aigc.list) | [下载](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/aigc.list) |
+| AIGC | `aigc.list` | 229 | [下载](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/aigc.list) | [下载](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/aigc.list) |
 | Direct | `direct.list` | 254 | [下载](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/direct.list) | [下载](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/direct.list) |
 | LAN | `lan.list` | 141 | [下载](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/lan.list) | [下载](https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/lan.list) |
 
 ## 总体统计
-- 总规则数: 40669
+- 总规则数: 40670
 - 分类数: 7
 - 生成文件数: 7
 
@@ -86,7 +86,7 @@ jsDelivr是一个免费的CDN服务，可以加速GitHub文件的访问。
 
 ### AIGC
 - 描述: 不对中国大陆地区提供服务的AI服务商域名和IP
-- 规则数: 228
+- 规则数: 229
 - 文件: `aigc.list`
 - 下载链接:
   - [GitHub原始文件](https://raw.githubusercontent.com/guigeng/Surge/refs/heads/main/rule/aigc.list)
@@ -96,7 +96,7 @@ jsDelivr是一个免费的CDN服务，可以加速GitHub文件的访问。
   - jsDelivr: `https://cdn.jsdelivr.net/gh/guigeng/Surge@refs/heads/main/rule/aigc.list`
   - DOMAIN: 30
   - DOMAIN-KEYWORD: 17
-  - DOMAIN-SUFFIX: 159
+  - DOMAIN-SUFFIX: 160
   - IP-ASN: 2
   - IP-CIDR: 15
   - IP-CIDR6: 5

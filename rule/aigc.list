@@ -1,12 +1,12 @@
 # NAME: AIGC
-# UPDATED: 2025-07-10 14:08:34
+# UPDATED: 2025-07-10 15:09:11
 # DOMAIN: 30
 # DOMAIN-KEYWORD: 17
-# DOMAIN-SUFFIX: 159
+# DOMAIN-SUFFIX: 160
 # IP-ASN: 2
 # IP-CIDR: 15
 # IP-CIDR6: 5
-# TOTAL: 228
+# TOTAL: 229
 
 DOMAIN,abtestvm-sg.bytedance.com
 DOMAIN,ai.google.dev
@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,api.microsoftapp.net
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,apis.google.com
+DOMAIN-SUFFIX,augment-assets.com
 DOMAIN-SUFFIX,augmentcode.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,azureedge.net
