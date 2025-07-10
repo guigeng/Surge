@@ -1,7 +1,7 @@
 # NAME: China IP-ASN
-# UPDATED: 2025-07-09 16:42:23
-# IP-ASN: 5484
-# TOTAL: 5484
+# UPDATED: 2025-07-10 09:34:10
+# IP-ASN: 5485
+# TOTAL: 5485
 
 IP-ASN,10111 // Zeofast Network （现上海吉实信息技术有限公司）
 IP-ASN,10206 // 中国联通 中卫云
@@ -339,7 +339,7 @@ IP-ASN,139833 // Evsio0n Network Inc.
 IP-ASN,139859 // TemasekTech.com
 IP-ASN,139866 // Ankang Puchuang 网络科技有限公司
 IP-ASN,139874 // Wu'an Chihong 网络科技有限公司
-IP-ASN,139887 // ChinaNet Shandong Yantai IDC network
+IP-ASN,139887 // CHINANET Shandong Yantai IDC network
 IP-ASN,139888 // No.16 Hengcha Rd,Zhuhui,Hengyang,湖南
 IP-ASN,139908 // Karamay Hzon 网络科技Development 有限公司
 IP-ASN,140043 // 广州 Jinggong信息科技有限公司
@@ -4763,6 +4763,7 @@ IP-ASN,151194 // Zhu Yucheng
 IP-ASN,151202 // Suzhou Honoka Technology Co Ltd
 IP-ASN,151261 // Sichuan Xiaocong Cloud Supercomputing Technology Co.,Ltd
 IP-ASN,151270 // Sichuan Xiaoteyun Technology Co.,Ltd
+IP-ASN,151276 // XI'AN UOTOCOM NETWORK TECHNOLOGY CO.,LTD
 IP-ASN,151277 // China Broadcast Network International Co.,Ltd
 IP-ASN,151284 // APNIC ASN block
 IP-ASN,151295 // Jiangsu Yinsuyun Network Technology Co. ,Ltd.
@@ -4916,12 +4917,12 @@ IP-ASN,199392 // SHIZHENG NIE
 IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
 IP-ASN,199436,no-resolve
 IP-ASN,199684,no-resolve
-IP-ASN,199832,no-resolve
+IP-ASN,199832 // QUN LIN
 IP-ASN,199932 // Tianle Shi
 IP-ASN,200021 // Tianhong Peng
 IP-ASN,200078 // Gao Yijia
 IP-ASN,200103 // XUAN ZHU
-IP-ASN,200256,no-resolve
+IP-ASN,200256 // Yue Cao
 IP-ASN,200257,no-resolve
 IP-ASN,200267 // Yiping Zhao
 IP-ASN,200268 // Haihan Chen
@@ -4932,7 +4933,7 @@ IP-ASN,200592 // RIPE NCC ASN block
 IP-ASN,200728,no-resolve
 IP-ASN,200782,no-resolve
 IP-ASN,200789 // Wei Teng LIn
-IP-ASN,200809,no-resolve
+IP-ASN,200809 // QUN LIN
 IP-ASN,200853 // Yifan Li
 IP-ASN,200890 // Jianfeng Ren
 IP-ASN,200895,no-resolve
@@ -4951,7 +4952,7 @@ IP-ASN,203888,no-resolve
 IP-ASN,203899,no-resolve
 IP-ASN,204185 // Yuchen Ma
 IP-ASN,204214,no-resolve
-IP-ASN,205152,no-resolve
+IP-ASN,205152 // Han Dai
 IP-ASN,205532 // Zichao Heng
 IP-ASN,205603 // Xinyu Wei
 IP-ASN,205610 // Huanjie Zhu
@@ -4980,15 +4981,15 @@ IP-ASN,208680,no-resolve
 IP-ASN,208698 // Huang Zhijie
 IP-ASN,208754 // XingRui Li
 IP-ASN,208830,no-resolve
-IP-ASN,208872,no-resolve
+IP-ASN,208872 // Jing Mi
 IP-ASN,208993 // Wei Xiaofan
 IP-ASN,209083,no-resolve
-IP-ASN,209218,no-resolve
+IP-ASN,209218 // Yang Qi
 IP-ASN,209261 // Qiao Jiang
 IP-ASN,209294 // Fan Zhang
 IP-ASN,209300 // Wende Tan
 IP-ASN,209306 // Jin Shaohai
-IP-ASN,209481 // RIPE NCC ASN block
+IP-ASN,209481 // HaoYu Deng
 IP-ASN,209484 // Jinan Xiangyun Tianhai Information Technology Co.,Ltd
 IP-ASN,209556 // Benli Zhong
 IP-ASN,209574 // Xiao Tan
@@ -4999,11 +5000,11 @@ IP-ASN,209661 // SIQI WANG
 IP-ASN,209686,no-resolve
 IP-ASN,209864,no-resolve
 IP-ASN,210041 // Licheng MAO
-IP-ASN,210176 // RIPE NCC ASN block
+IP-ASN,210176 // Haoyi Xiang
 IP-ASN,210352 // Yijia Xu
 IP-ASN,210426 // Liang Zhu 【未广播中国大陆IP】
 IP-ASN,210714 // Wang Yongjin 【未广播中国大陆IP】
-IP-ASN,210738 // RIPE NCC ASN block
+IP-ASN,210738 // Peng Chen
 IP-ASN,210815,no-resolve
 IP-ASN,210872,no-resolve
 IP-ASN,210903 // 承德青曜网络技术服务有限公司
@@ -5023,7 +5024,7 @@ IP-ASN,212237 // Changgong Zhang
 IP-ASN,212371 // Huizhou HuiGu CloudTech Co.,Ltd.
 IP-ASN,212532 // XIAO YANG WEN RUI
 IP-ASN,212623,no-resolve
-IP-ASN,212690,no-resolve
+IP-ASN,212690 // Enyu Li
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,212982 // Lu Wang
 IP-ASN,213069,no-resolve
@@ -5065,7 +5066,7 @@ IP-ASN,215507 // KAI BI
 IP-ASN,215750 // DAQIAN HUANG
 IP-ASN,215786 // Peng Wang
 IP-ASN,215829,no-resolve
-IP-ASN,215832,no-resolve
+IP-ASN,215832 // Jian Xu
 IP-ASN,215848 // Litao Luo
 IP-ASN,215906,no-resolve
 IP-ASN,215969 // Tan Zhang
@@ -5202,11 +5203,11 @@ IP-ASN,38439 // 北京烽鸟网络科技有限公司
 IP-ASN,38564 // NVIDIA Asia Internet Gateway
 IP-ASN,38587 // 中国教育网互联网数据中心
 IP-ASN,38834 // 上海英伟达企业网
-IP-ASN,39753,no-resolve
+IP-ASN,39753 // Kai Liu
 IP-ASN,4134 // 中国电信骨干网
 IP-ASN,41979,no-resolve
 IP-ASN,42962 // 石家庄旭鼎科技有限公司
-IP-ASN,44421,no-resolve
+IP-ASN,44421 // Yifu Yu
 IP-ASN,45057 // 中国铁通上海城网
 IP-ASN,45058 // 金桥网通通信有限公司
 IP-ASN,45061 // 上海信息网络有限公司
@@ -5319,7 +5320,7 @@ IP-ASN,58563 // CHINANET 湖北省网络
 IP-ASN,58571 // CHINANET 广东省佛山网
 IP-ASN,58593 // 上海蓝云科技有限公司
 IP-ASN,58772 // CHINANET 福建省 福州 IDC network
-IP-ASN,58777 // ChinaTelecom Cybersecurity Tech
+IP-ASN,58777 // CHINATELECOM Cybersecurity Tech
 IP-ASN,58811 // CONAC（中国组织名称管理中心）
 IP-ASN,58828 // 广东 RURAL CREDIT UNION
 IP-ASN,58829 // 森林永恒传播技术有限公司
@@ -5395,7 +5396,7 @@ IP-ASN,63561 // 中国电子科技网络安全有限公司
 IP-ASN,63564 // 贵州白山云科技有限公司
 IP-ASN,63565 // 北京 lian guang tong 网络科技有限公司
 IP-ASN,63567 // Suqian Pugongying Network Service Co.,Ltd
-IP-ASN,63570 // APNIC ASN block
+IP-ASN,63570 // APNIC ASN Block
 IP-ASN,63571 // Shenzhen cyberlink Century Investment Co.,Ltd.
 IP-ASN,63580 // 中国诺华生物医学研究有限公司
 IP-ASN,63581 // 广西广播电视信息网络有限公司

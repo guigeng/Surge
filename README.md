@@ -1,17 +1,17 @@
 # Surge规则文件汇总
-# 生成时间: 2025-07-09 16:42:23
+# 生成时间: 2025-07-10 09:34:10
 
 ## 总体统计
-- 总规则数: 40273
-- 分类数: 5
-- 生成文件数: 5
+- 总规则数: 40528
+- 分类数: 6
+- 生成文件数: 6
 
 ## 分类详情
 ### China IP-ASN
 - 描述: 中国大陆IP地址段和ASN
-- 规则数: 5484
+- 规则数: 5485
 - 文件: cn_asn.list
-  - IP-ASN: 5484
+  - IP-ASN: 5485
 
 ### China Domains
 - 描述: 中国大陆常见域名
@@ -55,3 +55,13 @@
   - IP-ASN: 2
   - IP-CIDR: 15
   - IP-CIDR6: 5
+
+### Direct
+- 描述: 无需代理的域名
+- 规则数: 254
+- 文件: direct.list
+  - DOMAIN: 56
+  - DOMAIN-KEYWORD: 35
+  - DOMAIN-SUFFIX: 126
+  - PROCESS-NAME: 36
+  - USER-AGENT: 1
