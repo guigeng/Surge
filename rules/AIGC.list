@@ -1,13 +1,18 @@
-# NAME: AIGC
-# UPDATED: 2025-07-14 22:59:55
-# DOMAIN: 56
-# DOMAIN-KEYWORD: 17
-# DOMAIN-SUFFIX: 174
-# IP-ASN: 2
-# IP-CIDR: 15
-# IP-CIDR6: 5
-# TOTAL: 269
-
+# AIGC相关规则，大多数国外AI服务不对中国大陆地区提供服务，需要通过美国地区的代理服务器访问
+# 生成时间: 2025-07-15 16:16:02
+# 分类: proxy-us
+# 规则数量: 268 条
+#
+# 规则类型分布:
+#   DOMAIN: 56 条 (20.9%)
+#   DOMAIN-KEYWORD: 15 条 (5.6%)
+#   DOMAIN-SUFFIX: 175 条 (65.3%)
+#   IP-ASN: 2 条 (0.7%)
+#   IP-CIDR: 15 条 (5.6%)
+#   IP-CIDR6: 5 条 (1.9%)
+#
+# ========== 规则内容 ==========
+# DOMAIN 规则
 DOMAIN,abtestvm-sg.bytedance.com
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
@@ -64,14 +69,31 @@ DOMAIN,sydney.bing.com
 DOMAIN,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe
 DOMAIN,trae-api-sg.mchost.guru
 DOMAIN,www.bing.com
+
+# DOMAIN-KEYWORD 规则
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,Claude
+DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,developerprofiles
+DOMAIN-KEYWORD,generativelanguage
+DOMAIN-KEYWORD,Grok
+DOMAIN-KEYWORD,labs.google
+DOMAIN-KEYWORD,notebooklm.google
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,openaiapi
+DOMAIN-KEYWORD,openaicom
+DOMAIN-KEYWORD,openaicom-api
+DOMAIN-KEYWORD,perplexity
+DOMAIN-KEYWORD,prodregistryv
+
+# DOMAIN-SUFFIX 规则
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,aibdxsebwhalbnugsqel.supabase.co
-DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,amymind.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,api.microsoftapp.net
-DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,augment-assets.com
 DOMAIN-SUFFIX,augmentcode.com
@@ -79,7 +101,6 @@ DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azurefd.net
-DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,blob.core.windows.net
@@ -100,6 +121,7 @@ DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cohere.ai
 DOMAIN-SUFFIX,compute-pipe.com
+DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
@@ -125,7 +147,6 @@ DOMAIN-SUFFIX,geforce.co.uk
 DOMAIN-SUFFIX,geforce.com
 DOMAIN-SUFFIX,geforce.com.tw
 DOMAIN-SUFFIX,geller-pa.googleapis.com
-DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,google-analytics.com
@@ -147,6 +168,7 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grok.x.ai
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,huggingface.co
@@ -161,7 +183,6 @@ DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,mistral.ai
-DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,nvda.d2.sc.omtrdc.net
 DOMAIN-SUFFIX,nvidia.asia
@@ -221,12 +242,15 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,posthog.com
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,r.bing.com
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,shotwithgeforce.com
+DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,supabase.co
+DOMAIN-SUFFIX,sydney.bing.com
 DOMAIN-SUFFIX,tegrazone.co
 DOMAIN-SUFFIX,tegrazone.co.kr
 DOMAIN-SUFFIX,tegrazone.com
@@ -237,24 +261,14 @@ DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-SUFFIX,www.bing.com
 DOMAIN-SUFFIX,x.ai
-DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
-DOMAIN-KEYWORD,anthropic
-DOMAIN-KEYWORD,Claude
-DOMAIN-KEYWORD,claude
-DOMAIN-KEYWORD,cloudflare
-DOMAIN-KEYWORD,colab
-DOMAIN-KEYWORD,developerprofiles
-DOMAIN-KEYWORD,generativelanguage
-DOMAIN-KEYWORD,Grok
-DOMAIN-KEYWORD,labs.google
-DOMAIN-KEYWORD,notebooklm.google
-DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,openaiapi
-DOMAIN-KEYWORD,openaicom
-DOMAIN-KEYWORD,openaicom-api
-DOMAIN-KEYWORD,perplexity
-DOMAIN-KEYWORD,prodregistryv
+
+# IP-ASN 规则
+IP-ASN,14061,no-resolve
+IP-ASN,20473,no-resolve
+
+# IP-CIDR 规则
 IP-CIDR,104.238.150.13/32,no-resolve
 IP-CIDR,129.146.3.78/32,no-resolve
 IP-CIDR,143.110.232.239/32,no-resolve
@@ -270,10 +284,10 @@ IP-CIDR,45.32.12.145/32,no-resolve
 IP-CIDR,45.55.196.68/32,no-resolve
 IP-CIDR,45.76.214.191/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
+
+# IP-CIDR6 规则
 IP-CIDR6,2001:19f0:7001:1149:5400:4ff:feac:a0b3/128,no-resolve
 IP-CIDR6,2001:19f0:7001:55b3:5400:4ff:feab:ba8f/128,no-resolve
 IP-CIDR6,2001:19f0:7001:8e6:5400:4ff:feab:b953/128,no-resolve
 IP-CIDR6,2401:c080:1000:47c5:5400:4ff:feab:f724/128,no-resolve
 IP-CIDR6,2607:6bc0::/48,no-resolve
-IP-ASN,14061,no-resolve
-IP-ASN,20473,no-resolve
