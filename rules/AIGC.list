@@ -1,5 +1,5 @@
 # AIGC相关规则，大多数国外AI服务不对中国大陆地区提供服务，需要通过美国地区的代理服务器访问
-# 生成时间: 2025-07-15 23:36:49
+# 生成时间: 2025-07-17 14:02:54
 # 分类: proxy-us
 # 规则数量: 268 条
 #
@@ -72,7 +72,7 @@ DOMAIN,www.bing.com
 
 # DOMAIN-KEYWORD 规则
 DOMAIN-KEYWORD,anthropic
-DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles

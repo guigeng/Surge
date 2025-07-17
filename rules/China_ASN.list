@@ -1,10 +1,10 @@
 # 中国大陆ASN列表，需要直连的国内IP
-# 生成时间: 2025-07-15 23:36:49
+# 生成时间: 2025-07-17 14:02:54
 # 分类: direct
-# 规则数量: 5491 条
+# 规则数量: 5492 条
 #
 # 规则类型分布:
-#   IP-ASN: 5490 条 (100.0%)
+#   IP-ASN: 5491 条 (100.0%)
 #   IP-CIDR: 1 条 (0.0%)
 #
 # ========== 规则内容 ==========
@@ -4976,6 +4976,7 @@ IP-ASN,206729,no-resolve
 IP-ASN,206843,no-resolve
 IP-ASN,206919,no-resolve
 IP-ASN,207091,no-resolve
+IP-ASN,207292,no-resolve
 IP-ASN,207299,no-resolve
 IP-ASN,207317,no-resolve
 IP-ASN,207338,no-resolve
